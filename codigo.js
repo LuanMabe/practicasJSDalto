@@ -1,7 +1,5 @@
-raizCuadrada = (num1) => {
-    return Math.sqrt(parseInt(num1));
-}
+document.write("hola")
 
-let numero1 = prompt("Raiz cuadrada de");
-resultado = raizCuadrada(numero1);
-alert(`tu resultado es ${resultado}`);
+console.log("adios")
+
+alert("hola")
