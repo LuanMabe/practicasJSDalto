@@ -1,5 +1,5 @@
-document.write("hola")
 
-console.log("adios")
+const div = document.querySelector(".div-3");
 
-alert("hola")
+
+console.log(div.closest(".div"));
